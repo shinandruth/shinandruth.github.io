@@ -1,10 +1,11 @@
 ---
 layout: post
-title: 'hi there, i''m so happy to see you! '
+title: hi there
 published: true
 ---
 
-Thanks for taking the time out of your busy day and visit my cozy lounge
+thanks for taking the time out of your busy day to spend time with me in my cozy lounge! i'm super excited to go on this journey called life that i'm trying my best to figure it out :). welcome and enjoy!
+
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
