@@ -1,5 +1,5 @@
 Thanks for taking the time out of your busy day to spend time with me in my cozy lounge! I'm super excited to go on this journey called life that I'm trying my best to figure it out :).  
  
-I'm a big people person and think putting a face to a name is very important. So hello! I'm Shin and without further abo, *welcome and enjoy*!
+I'm a big people person and think putting a face to a name is very important. So hello! I'm Shin and without further abo, *welcome and enjoy*!  
 
 ![](/images/shin.jpg)
