@@ -8,7 +8,7 @@ published: true
 # FAQ
 
 ### Who are you?
-I'm Shin, also known as Ruth depending on when you met me. I go by both.
+I'm Shin, also known as Kayli depending on when you met me. I go by both.
 
 ### What did you study?
 I studied computer science, economics, and [mathematical methods and social sciences (MMSS)](https://www.mmss.northwestern.edu/people/students/class-of-2018.html) at Northwestern University. Go wildcats!
